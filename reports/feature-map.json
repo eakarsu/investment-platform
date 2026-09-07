@@ -1,0 +1,3997 @@
+{
+  "mapped": [
+    {
+      "project": "ai-401k-revenue-sharing-fee-recapture",
+      "sourceKey": "recordkeeping-agreement-library",
+      "source": "/Volumes/external/projects/ai-401k-revenue-sharing-fee-recapture/app.config.mjs",
+      "canonical": "recordkeeping-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-401k-revenue-sharing-fee-recapture",
+      "sourceKey": "investment-option-registry",
+      "source": "/Volumes/external/projects/ai-401k-revenue-sharing-fee-recapture/app.config.mjs",
+      "canonical": "investment-option-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-401k-revenue-sharing-fee-recapture",
+      "sourceKey": "participant-balance-ingestion",
+      "source": "/Volumes/external/projects/ai-401k-revenue-sharing-fee-recapture/app.config.mjs",
+      "canonical": "participant-balance-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-401k-revenue-sharing-fee-recapture",
+      "sourceKey": "revenue-sharing-rate-mapping",
+      "source": "/Volumes/external/projects/ai-401k-revenue-sharing-fee-recapture/app.config.mjs",
+      "canonical": "revenue-sharing-rate-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-401k-revenue-sharing-fee-recapture",
+      "sourceKey": "12b-1-calculation",
+      "source": "/Volumes/external/projects/ai-401k-revenue-sharing-fee-recapture/app.config.mjs",
+      "canonical": "12b-1-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-401k-revenue-sharing-fee-recapture",
+      "sourceKey": "sub-ta-fee-calculation",
+      "source": "/Volumes/external/projects/ai-401k-revenue-sharing-fee-recapture/app.config.mjs",
+      "canonical": "sub-ta-fee-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-401k-revenue-sharing-fee-recapture",
+      "sourceKey": "shareholder-service-fee",
+      "source": "/Volumes/external/projects/ai-401k-revenue-sharing-fee-recapture/app.config.mjs",
+      "canonical": "shareholder-service-fee",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-401k-revenue-sharing-fee-recapture",
+      "sourceKey": "gross-to-net-expense-review",
+      "source": "/Volumes/external/projects/ai-401k-revenue-sharing-fee-recapture/app.config.mjs",
+      "canonical": "gross-to-net-expense-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-401k-revenue-sharing-fee-recapture",
+      "sourceKey": "required-revenue-credit",
+      "source": "/Volumes/external/projects/ai-401k-revenue-sharing-fee-recapture/app.config.mjs",
+      "canonical": "required-revenue-credit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-401k-revenue-sharing-fee-recapture",
+      "sourceKey": "recordkeeper-statement-audit",
+      "source": "/Volumes/external/projects/ai-401k-revenue-sharing-fee-recapture/app.config.mjs",
+      "canonical": "recordkeeper-statement-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-401k-revenue-sharing-fee-recapture",
+      "sourceKey": "participant-allocation-method",
+      "source": "/Volumes/external/projects/ai-401k-revenue-sharing-fee-recapture/app.config.mjs",
+      "canonical": "participant-allocation-method",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-401k-revenue-sharing-fee-recapture",
+      "sourceKey": "excess-fee-detection",
+      "source": "/Volumes/external/projects/ai-401k-revenue-sharing-fee-recapture/app.config.mjs",
+      "canonical": "excess-fee-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-401k-revenue-sharing-fee-recapture",
+      "sourceKey": "credit-correction-workflow",
+      "source": "/Volumes/external/projects/ai-401k-revenue-sharing-fee-recapture/app.config.mjs",
+      "canonical": "credit-correction-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-401k-revenue-sharing-fee-recapture",
+      "sourceKey": "fiduciary-evidence-package",
+      "source": "/Volumes/external/projects/ai-401k-revenue-sharing-fee-recapture/app.config.mjs",
+      "canonical": "fiduciary-evidence-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-401k-revenue-sharing-fee-recapture",
+      "sourceKey": "plan-option-analytics",
+      "source": "/Volumes/external/projects/ai-401k-revenue-sharing-fee-recapture/app.config.mjs",
+      "canonical": "plan-option-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-401k-revenue-sharing-fee-recapture",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-401k-revenue-sharing-fee-recapture/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-401k-revenue-sharing-fee-recapture",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-401k-revenue-sharing-fee-recapture/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-broker-dealer-communications-compliance",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-broker-dealer-communications-compliance/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-broker-dealer-communications-compliance",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-broker-dealer-communications-compliance/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-broker-dealer-communications-compliance",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-broker-dealer-communications-compliance/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fund-administration-nav-fee-audit",
+      "sourceKey": "administration-agreement-library",
+      "source": "/Volumes/external/projects/ai-fund-administration-nav-fee-audit/app.config.mjs",
+      "canonical": "administration-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fund-administration-nav-fee-audit",
+      "sourceKey": "fund-share-class-registry",
+      "source": "/Volumes/external/projects/ai-fund-administration-nav-fee-audit/app.config.mjs",
+      "canonical": "fund-share-class-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fund-administration-nav-fee-audit",
+      "sourceKey": "daily-monthly-nav-ingestion",
+      "source": "/Volumes/external/projects/ai-fund-administration-nav-fee-audit/app.config.mjs",
+      "canonical": "daily-monthly-nav-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fund-administration-nav-fee-audit",
+      "sourceKey": "asset-tier-calculation",
+      "source": "/Volumes/external/projects/ai-fund-administration-nav-fee-audit/app.config.mjs",
+      "canonical": "asset-tier-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fund-administration-nav-fee-audit",
+      "sourceKey": "investor-account-counts",
+      "source": "/Volumes/external/projects/ai-fund-administration-nav-fee-audit/app.config.mjs",
+      "canonical": "investor-account-counts",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fund-administration-nav-fee-audit",
+      "sourceKey": "transaction-volume-counts",
+      "source": "/Volumes/external/projects/ai-fund-administration-nav-fee-audit/app.config.mjs",
+      "canonical": "transaction-volume-counts",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fund-administration-nav-fee-audit",
+      "sourceKey": "base-administration-fee",
+      "source": "/Volumes/external/projects/ai-fund-administration-nav-fee-audit/app.config.mjs",
+      "canonical": "base-administration-fee",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fund-administration-nav-fee-audit",
+      "sourceKey": "fund-accounting-fee",
+      "source": "/Volumes/external/projects/ai-fund-administration-nav-fee-audit/app.config.mjs",
+      "canonical": "fund-accounting-fee",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fund-administration-nav-fee-audit",
+      "sourceKey": "transfer-agency-fee",
+      "source": "/Volumes/external/projects/ai-fund-administration-nav-fee-audit/app.config.mjs",
+      "canonical": "transfer-agency-fee",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fund-administration-nav-fee-audit",
+      "sourceKey": "performance-fee-support",
+      "source": "/Volumes/external/projects/ai-fund-administration-nav-fee-audit/app.config.mjs",
+      "canonical": "performance-fee-support",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fund-administration-nav-fee-audit",
+      "sourceKey": "service-credit-calculation",
+      "source": "/Volumes/external/projects/ai-fund-administration-nav-fee-audit/app.config.mjs",
+      "canonical": "service-credit-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fund-administration-nav-fee-audit",
+      "sourceKey": "invoice-recalculation",
+      "source": "/Volumes/external/projects/ai-fund-administration-nav-fee-audit/app.config.mjs",
+      "canonical": "invoice-recalculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fund-administration-nav-fee-audit",
+      "sourceKey": "administrator-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-fund-administration-nav-fee-audit/app.config.mjs",
+      "canonical": "administrator-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fund-administration-nav-fee-audit",
+      "sourceKey": "payment-credit-reconciliation",
+      "source": "/Volumes/external/projects/ai-fund-administration-nav-fee-audit/app.config.mjs",
+      "canonical": "payment-credit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fund-administration-nav-fee-audit",
+      "sourceKey": "fund-vendor-analytics",
+      "source": "/Volumes/external/projects/ai-fund-administration-nav-fee-audit/app.config.mjs",
+      "canonical": "fund-vendor-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fund-administration-nav-fee-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-fund-administration-nav-fee-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-fund-administration-nav-fee-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-fund-administration-nav-fee-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-investment-fund-expense-allocation-control",
+      "sourceKey": "allocation-policy-library",
+      "source": "/Volumes/external/projects/ai-investment-fund-expense-allocation-control/app.config.mjs",
+      "canonical": "allocation-policy-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-investment-fund-expense-allocation-control",
+      "sourceKey": "fund-entity-registry",
+      "source": "/Volumes/external/projects/ai-investment-fund-expense-allocation-control/app.config.mjs",
+      "canonical": "fund-entity-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-investment-fund-expense-allocation-control",
+      "sourceKey": "vendor-invoice-ingestion",
+      "source": "/Volumes/external/projects/ai-investment-fund-expense-allocation-control/app.config.mjs",
+      "canonical": "vendor-invoice-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-investment-fund-expense-allocation-control",
+      "sourceKey": "expense-category-classification",
+      "source": "/Volumes/external/projects/ai-investment-fund-expense-allocation-control/app.config.mjs",
+      "canonical": "expense-category-classification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-investment-fund-expense-allocation-control",
+      "sourceKey": "manager-versus-fund-test",
+      "source": "/Volumes/external/projects/ai-investment-fund-expense-allocation-control/app.config.mjs",
+      "canonical": "manager-versus-fund-test",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-investment-fund-expense-allocation-control",
+      "sourceKey": "shared-service-allocation",
+      "source": "/Volumes/external/projects/ai-investment-fund-expense-allocation-control/app.config.mjs",
+      "canonical": "shared-service-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-investment-fund-expense-allocation-control",
+      "sourceKey": "time-record-allocation",
+      "source": "/Volumes/external/projects/ai-investment-fund-expense-allocation-control/app.config.mjs",
+      "canonical": "time-record-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-investment-fund-expense-allocation-control",
+      "sourceKey": "broken-deal-allocation",
+      "source": "/Volumes/external/projects/ai-investment-fund-expense-allocation-control/app.config.mjs",
+      "canonical": "broken-deal-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-investment-fund-expense-allocation-control",
+      "sourceKey": "co-investment-treatment",
+      "source": "/Volumes/external/projects/ai-investment-fund-expense-allocation-control/app.config.mjs",
+      "canonical": "co-investment-treatment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-investment-fund-expense-allocation-control",
+      "sourceKey": "cross-fund-allocation",
+      "source": "/Volumes/external/projects/ai-investment-fund-expense-allocation-control/app.config.mjs",
+      "canonical": "cross-fund-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-investment-fund-expense-allocation-control",
+      "sourceKey": "class-level-allocation",
+      "source": "/Volumes/external/projects/ai-investment-fund-expense-allocation-control/app.config.mjs",
+      "canonical": "class-level-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-investment-fund-expense-allocation-control",
+      "sourceKey": "policy-exception-workflow",
+      "source": "/Volumes/external/projects/ai-investment-fund-expense-allocation-control/app.config.mjs",
+      "canonical": "policy-exception-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-investment-fund-expense-allocation-control",
+      "sourceKey": "reimbursement-calculation",
+      "source": "/Volumes/external/projects/ai-investment-fund-expense-allocation-control/app.config.mjs",
+      "canonical": "reimbursement-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-investment-fund-expense-allocation-control",
+      "sourceKey": "nav-correction-reconciliation",
+      "source": "/Volumes/external/projects/ai-investment-fund-expense-allocation-control/app.config.mjs",
+      "canonical": "nav-correction-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-investment-fund-expense-allocation-control",
+      "sourceKey": "fund-expense-analytics",
+      "source": "/Volumes/external/projects/ai-investment-fund-expense-allocation-control/app.config.mjs",
+      "canonical": "fund-expense-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-investment-fund-expense-allocation-control",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-investment-fund-expense-allocation-control/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-investment-fund-expense-allocation-control",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-investment-fund-expense-allocation-control/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-municipal-bond-continuing-disclosure",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-municipal-bond-continuing-disclosure/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-municipal-bond-continuing-disclosure",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-municipal-bond-continuing-disclosure/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-municipal-bond-continuing-disclosure",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-municipal-bond-continuing-disclosure/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-prime-brokerage-margin-interest-audit",
+      "sourceKey": "prime-agreement-library",
+      "source": "/Volumes/external/projects/ai-prime-brokerage-margin-interest-audit/app.config.mjs",
+      "canonical": "prime-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-prime-brokerage-margin-interest-audit",
+      "sourceKey": "account-entity-hierarchy",
+      "source": "/Volumes/external/projects/ai-prime-brokerage-margin-interest-audit/app.config.mjs",
+      "canonical": "account-entity-hierarchy",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-prime-brokerage-margin-interest-audit",
+      "sourceKey": "daily-cash-balance-ingestion",
+      "source": "/Volumes/external/projects/ai-prime-brokerage-margin-interest-audit/app.config.mjs",
+      "canonical": "daily-cash-balance-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-prime-brokerage-margin-interest-audit",
+      "sourceKey": "margin-loan-calculation",
+      "source": "/Volumes/external/projects/ai-prime-brokerage-margin-interest-audit/app.config.mjs",
+      "canonical": "margin-loan-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-prime-brokerage-margin-interest-audit",
+      "sourceKey": "benchmark-rate-validation",
+      "source": "/Volumes/external/projects/ai-prime-brokerage-margin-interest-audit/app.config.mjs",
+      "canonical": "benchmark-rate-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-prime-brokerage-margin-interest-audit",
+      "sourceKey": "spread-tier-calculation",
+      "source": "/Volumes/external/projects/ai-prime-brokerage-margin-interest-audit/app.config.mjs",
+      "canonical": "spread-tier-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-prime-brokerage-margin-interest-audit",
+      "sourceKey": "day-count-convention",
+      "source": "/Volumes/external/projects/ai-prime-brokerage-margin-interest-audit/app.config.mjs",
+      "canonical": "day-count-convention",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-prime-brokerage-margin-interest-audit",
+      "sourceKey": "currency-basis-adjustment",
+      "source": "/Volumes/external/projects/ai-prime-brokerage-margin-interest-audit/app.config.mjs",
+      "canonical": "currency-basis-adjustment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-prime-brokerage-margin-interest-audit",
+      "sourceKey": "cross-account-netting",
+      "source": "/Volumes/external/projects/ai-prime-brokerage-margin-interest-audit/app.config.mjs",
+      "canonical": "cross-account-netting",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-prime-brokerage-margin-interest-audit",
+      "sourceKey": "credit-interest-calculation",
+      "source": "/Volumes/external/projects/ai-prime-brokerage-margin-interest-audit/app.config.mjs",
+      "canonical": "credit-interest-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-prime-brokerage-margin-interest-audit",
+      "sourceKey": "stock-borrow-fee-linkage",
+      "source": "/Volumes/external/projects/ai-prime-brokerage-margin-interest-audit/app.config.mjs",
+      "canonical": "stock-borrow-fee-linkage",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-prime-brokerage-margin-interest-audit",
+      "sourceKey": "statement-charge-matching",
+      "source": "/Volumes/external/projects/ai-prime-brokerage-margin-interest-audit/app.config.mjs",
+      "canonical": "statement-charge-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-prime-brokerage-margin-interest-audit",
+      "sourceKey": "broker-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-prime-brokerage-margin-interest-audit/app.config.mjs",
+      "canonical": "broker-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-prime-brokerage-margin-interest-audit",
+      "sourceKey": "cash-credit-reconciliation",
+      "source": "/Volumes/external/projects/ai-prime-brokerage-margin-interest-audit/app.config.mjs",
+      "canonical": "cash-credit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-prime-brokerage-margin-interest-audit",
+      "sourceKey": "broker-fund-analytics",
+      "source": "/Volumes/external/projects/ai-prime-brokerage-margin-interest-audit/app.config.mjs",
+      "canonical": "broker-fund-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-prime-brokerage-margin-interest-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-prime-brokerage-margin-interest-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-prime-brokerage-margin-interest-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-prime-brokerage-margin-interest-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-equity-management-fee-offset-audit",
+      "sourceKey": "lpa-fee-terms",
+      "source": "/Volumes/external/projects/ai-private-equity-management-fee-offset-audit/app.config.mjs",
+      "canonical": "lpa-fee-terms",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-equity-management-fee-offset-audit",
+      "sourceKey": "investor-commitment-registry",
+      "source": "/Volumes/external/projects/ai-private-equity-management-fee-offset-audit/app.config.mjs",
+      "canonical": "investor-commitment-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-equity-management-fee-offset-audit",
+      "sourceKey": "investment-period-control",
+      "source": "/Volumes/external/projects/ai-private-equity-management-fee-offset-audit/app.config.mjs",
+      "canonical": "investment-period-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-equity-management-fee-offset-audit",
+      "sourceKey": "fee-base-calculation",
+      "source": "/Volumes/external/projects/ai-private-equity-management-fee-offset-audit/app.config.mjs",
+      "canonical": "fee-base-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-equity-management-fee-offset-audit",
+      "sourceKey": "step-down-calculation",
+      "source": "/Volumes/external/projects/ai-private-equity-management-fee-offset-audit/app.config.mjs",
+      "canonical": "step-down-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-equity-management-fee-offset-audit",
+      "sourceKey": "transaction-fee-ingestion",
+      "source": "/Volumes/external/projects/ai-private-equity-management-fee-offset-audit/app.config.mjs",
+      "canonical": "transaction-fee-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-equity-management-fee-offset-audit",
+      "sourceKey": "monitoring-fee-ingestion",
+      "source": "/Volumes/external/projects/ai-private-equity-management-fee-offset-audit/app.config.mjs",
+      "canonical": "monitoring-fee-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-equity-management-fee-offset-audit",
+      "sourceKey": "director-fee-ingestion",
+      "source": "/Volumes/external/projects/ai-private-equity-management-fee-offset-audit/app.config.mjs",
+      "canonical": "director-fee-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-equity-management-fee-offset-audit",
+      "sourceKey": "offset-percentage-calculation",
+      "source": "/Volumes/external/projects/ai-private-equity-management-fee-offset-audit/app.config.mjs",
+      "canonical": "offset-percentage-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-equity-management-fee-offset-audit",
+      "sourceKey": "broken-deal-expense-review",
+      "source": "/Volumes/external/projects/ai-private-equity-management-fee-offset-audit/app.config.mjs",
+      "canonical": "broken-deal-expense-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-equity-management-fee-offset-audit",
+      "sourceKey": "waiver-and-rebate-control",
+      "source": "/Volumes/external/projects/ai-private-equity-management-fee-offset-audit/app.config.mjs",
+      "canonical": "waiver-and-rebate-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-equity-management-fee-offset-audit",
+      "sourceKey": "capital-account-allocation",
+      "source": "/Volumes/external/projects/ai-private-equity-management-fee-offset-audit/app.config.mjs",
+      "canonical": "capital-account-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-equity-management-fee-offset-audit",
+      "sourceKey": "quarterly-statement-audit",
+      "source": "/Volumes/external/projects/ai-private-equity-management-fee-offset-audit/app.config.mjs",
+      "canonical": "quarterly-statement-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-equity-management-fee-offset-audit",
+      "sourceKey": "gp-correction-workflow",
+      "source": "/Volumes/external/projects/ai-private-equity-management-fee-offset-audit/app.config.mjs",
+      "canonical": "gp-correction-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-equity-management-fee-offset-audit",
+      "sourceKey": "fund-investor-analytics",
+      "source": "/Volumes/external/projects/ai-private-equity-management-fee-offset-audit/app.config.mjs",
+      "canonical": "fund-investor-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-equity-management-fee-offset-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-private-equity-management-fee-offset-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-equity-management-fee-offset-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-private-equity-management-fee-offset-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securities-lending-revenue-share-audit",
+      "sourceKey": "agency-agreement-library",
+      "source": "/Volumes/external/projects/ai-securities-lending-revenue-share-audit/app.config.mjs",
+      "canonical": "agency-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securities-lending-revenue-share-audit",
+      "sourceKey": "eligible-security-inventory",
+      "source": "/Volumes/external/projects/ai-securities-lending-revenue-share-audit/app.config.mjs",
+      "canonical": "eligible-security-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securities-lending-revenue-share-audit",
+      "sourceKey": "loan-transaction-ingestion",
+      "source": "/Volumes/external/projects/ai-securities-lending-revenue-share-audit/app.config.mjs",
+      "canonical": "loan-transaction-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securities-lending-revenue-share-audit",
+      "sourceKey": "collateral-balance-validation",
+      "source": "/Volumes/external/projects/ai-securities-lending-revenue-share-audit/app.config.mjs",
+      "canonical": "collateral-balance-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securities-lending-revenue-share-audit",
+      "sourceKey": "borrower-fee-calculation",
+      "source": "/Volumes/external/projects/ai-securities-lending-revenue-share-audit/app.config.mjs",
+      "canonical": "borrower-fee-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securities-lending-revenue-share-audit",
+      "sourceKey": "rebate-rate-calculation",
+      "source": "/Volumes/external/projects/ai-securities-lending-revenue-share-audit/app.config.mjs",
+      "canonical": "rebate-rate-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securities-lending-revenue-share-audit",
+      "sourceKey": "collateral-reinvestment-income",
+      "source": "/Volumes/external/projects/ai-securities-lending-revenue-share-audit/app.config.mjs",
+      "canonical": "collateral-reinvestment-income",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securities-lending-revenue-share-audit",
+      "sourceKey": "specials-premium-analysis",
+      "source": "/Volumes/external/projects/ai-securities-lending-revenue-share-audit/app.config.mjs",
+      "canonical": "specials-premium-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securities-lending-revenue-share-audit",
+      "sourceKey": "indemnification-fee-control",
+      "source": "/Volumes/external/projects/ai-securities-lending-revenue-share-audit/app.config.mjs",
+      "canonical": "indemnification-fee-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securities-lending-revenue-share-audit",
+      "sourceKey": "revenue-share-calculation",
+      "source": "/Volumes/external/projects/ai-securities-lending-revenue-share-audit/app.config.mjs",
+      "canonical": "revenue-share-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securities-lending-revenue-share-audit",
+      "sourceKey": "custodian-statement-audit",
+      "source": "/Volumes/external/projects/ai-securities-lending-revenue-share-audit/app.config.mjs",
+      "canonical": "custodian-statement-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securities-lending-revenue-share-audit",
+      "sourceKey": "corporate-action-treatment",
+      "source": "/Volumes/external/projects/ai-securities-lending-revenue-share-audit/app.config.mjs",
+      "canonical": "corporate-action-treatment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securities-lending-revenue-share-audit",
+      "sourceKey": "exception-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-securities-lending-revenue-share-audit/app.config.mjs",
+      "canonical": "exception-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securities-lending-revenue-share-audit",
+      "sourceKey": "cash-reconciliation",
+      "source": "/Volumes/external/projects/ai-securities-lending-revenue-share-audit/app.config.mjs",
+      "canonical": "cash-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securities-lending-revenue-share-audit",
+      "sourceKey": "program-security-analytics",
+      "source": "/Volumes/external/projects/ai-securities-lending-revenue-share-audit/app.config.mjs",
+      "canonical": "program-security-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securities-lending-revenue-share-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-securities-lending-revenue-share-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securities-lending-revenue-share-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-securities-lending-revenue-share-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "sourceKey": "bank-agreement-library",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/app.config.mjs",
+      "canonical": "bank-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "sourceKey": "account-and-service-registry",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/app.config.mjs",
+      "canonical": "account-and-service-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "sourceKey": "analysis-statement-ingestion",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/app.config.mjs",
+      "canonical": "analysis-statement-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "sourceKey": "afp-code-normalization",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/app.config.mjs",
+      "canonical": "afp-code-normalization",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "sourceKey": "unit-price-validation",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/app.config.mjs",
+      "canonical": "unit-price-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "sourceKey": "volume-and-usage-validation",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/app.config.mjs",
+      "canonical": "volume-and-usage-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "sourceKey": "duplicate-service-detection",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/app.config.mjs",
+      "canonical": "duplicate-service-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "sourceKey": "closed-account-fee-detection",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/app.config.mjs",
+      "canonical": "closed-account-fee-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "sourceKey": "earnings-credit-validation",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/app.config.mjs",
+      "canonical": "earnings-credit-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "sourceKey": "compensating-balance-calculation",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/app.config.mjs",
+      "canonical": "compensating-balance-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "sourceKey": "deposit-assessment-review",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/app.config.mjs",
+      "canonical": "deposit-assessment-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "sourceKey": "wire-ach-and-lockbox-audit",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/app.config.mjs",
+      "canonical": "wire-ach-and-lockbox-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "sourceKey": "bank-exception-workflow",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/app.config.mjs",
+      "canonical": "bank-exception-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "sourceKey": "refund-reconciliation",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/app.config.mjs",
+      "canonical": "refund-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "sourceKey": "relationship-scorecard",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/app.config.mjs",
+      "canonical": "relationship-scorecard",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "sourceKey": "account-service-optimization-analytics",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/app.config.mjs",
+      "canonical": "account-service-optimization-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/families",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "families",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/beneficiaries",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "beneficiaries",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/advisors",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "advisors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/trusts",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "trusts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/distributions",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "distributions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/succession-plans",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "succession-plans",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/holdings",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "holdings",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/illiquid-assets",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "illiquid-assets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/real-estate",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "real-estate",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/art-collection",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "art-collection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/private-investments",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "private-investments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/lp-interests",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "lp-interests",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/valuation-reports",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "valuation-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/tax-filings",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "tax-filings",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/charitable-gifts",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "charitable-gifts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/education-grants",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "education-grants",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/governance-docs",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "governance-docs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/audit-log",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/ai/estate-tax-scenario",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "estate-tax-scenario",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/ai/trust-distribution-suggest",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "trust-distribution-suggest",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/ai/illiquid-valuation-band",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "illiquid-valuation-band",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/ai/charitable-vehicle-recommend",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "charitable-vehicle-recommend",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/ai/executive-brief",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "executive-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/ai/governance-memo-draft",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "governance-memo-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/ai/succession-readiness",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "succession-readiness",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/ai/tax-loss-harvest",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "tax-loss-harvest",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/ai/generational-impact",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "generational-impact",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/ai/art-provenance-check",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "art-provenance-check",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/ai/education-distribution-rule",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "education-distribution-rule",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/ai/regulatory-compliance-check",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "regulatory-compliance-check",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/ai/charitable-impact-report",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "charitable-impact-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/ai/family-meeting-agenda",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "family-meeting-agenda",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/ai/asset-allocation-rebalance",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "asset-allocation-rebalance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "/ai/beneficiary-onboarding",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager/frontend/src/pages/Dashboard.js",
+      "canonical": "beneficiary-onboarding",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "liquidity-ladder",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager",
+      "canonical": "liquidity-ladder",
+      "kind": "route"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "family-missions",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager",
+      "canonical": "family-missions",
+      "kind": "route"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "mission-milestones",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager",
+      "canonical": "mission-milestones",
+      "kind": "route"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "education-milestones",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager",
+      "canonical": "education-milestones",
+      "kind": "route"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "learning-plans",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager",
+      "canonical": "learning-plans",
+      "kind": "route"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "nextgen-portal",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager",
+      "canonical": "nextgen-portal",
+      "kind": "route"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager",
+      "canonical": "connections",
+      "kind": "route"
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "sourceKey": "ai/philanthropic-grant-score",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager",
+      "canonical": "philanthropic-grant-score",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/deals",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "deals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/pipeline-notes",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "pipeline-notes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/intros",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "intros",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/term-sheets",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "term-sheets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/companies",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "companies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/founders",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "founders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/funds",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "funds",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/lp-reports",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "lp-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/capital-calls",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "capital-calls",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/distributions",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "distributions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/ic-memos",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "ic-memos",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/investments",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "investments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/follow-ons",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "follow-ons",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/portfolio-metrics",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "portfolio-metrics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/board-meetings",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "board-meetings",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/advisors",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "advisors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/exits",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "exits",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/audit-log",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/ai/ic-memo-draft",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "ic-memo-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/ai/founder-call-summary",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "founder-call-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/ai/comp-analysis",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "comp-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/ai/valuation-band",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "valuation-band",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/ai/executive-brief",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "executive-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/ai/lp-report-draft",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "lp-report-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/ai/exit-scenario",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "exit-scenario",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/ai/portfolio-flag",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "portfolio-flag",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/ai/follow-on-recommend",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "follow-on-recommend",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/ai/term-sheet-compare",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "term-sheet-compare",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/ai/intro-message-draft",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "intro-message-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/ai/market-mapping",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "market-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/ai/founder-redflag-extract",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "founder-redflag-extract",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/ai/cap-table-impact",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "cap-table-impact",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/ai/distribution-waterfall",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "distribution-waterfall",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "/ai/fund-strategy-brief",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot/frontend/src/pages/Dashboard.js",
+      "canonical": "fund-strategy-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "ai/pitch-deck-extract",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "pitch-deck-extract",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "ai/dd-qa-generate",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "dd-qa-generate",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "ai/market-size-estimate",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "market-size-estimate",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "ai/founder-background-summary",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "founder-background-summary",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "ai/thesis-fit-score",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "thesis-fit-score",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "cap-tables",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "cap-tables",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "lp-comms-templates",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "lp-comms-templates",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "kpi-ingest-sources",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "kpi-ingest-sources",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "kpi-ingest-records",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "kpi-ingest-records",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "data-room-documents",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "data-room-documents",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "diligence-tasks",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "diligence-tasks",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "lp-contacts",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "lp-contacts",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "fundraising-pipeline",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "fundraising-pipeline",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "portfolio-updates",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "portfolio-updates",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "fund-expenses",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "fund-expenses",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "reserve-plans",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "reserve-plans",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "collaboration-comments",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "collaboration-comments",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "access-rules",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "access-rules",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "saved-searches",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "saved-searches",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "global-search",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "global-search",
+      "kind": "route"
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "client-analysis",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/AISidebar.jsx",
+      "canonical": "client-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "portfolio-analysis",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/AISidebar.jsx",
+      "canonical": "portfolio-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "transaction-analysis",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/AISidebar.jsx",
+      "canonical": "transaction-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "asset-analysis",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/AISidebar.jsx",
+      "canonical": "asset-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "watchlist-analysis",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/AISidebar.jsx",
+      "canonical": "watchlist-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "goal-analysis",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/AISidebar.jsx",
+      "canonical": "goal-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "alert-analysis",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/AISidebar.jsx",
+      "canonical": "alert-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "fee-analysis",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/AISidebar.jsx",
+      "canonical": "fee-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "document-analysis",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/AISidebar.jsx",
+      "canonical": "document-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "performance-analysis",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/AISidebar.jsx",
+      "canonical": "performance-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "risk-assessment",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/AISidebar.jsx",
+      "canonical": "risk-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "investment-recs",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/AISidebar.jsx",
+      "canonical": "investment-recs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "market-sentiment",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/AISidebar.jsx",
+      "canonical": "market-sentiment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "tax-optimization",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/AISidebar.jsx",
+      "canonical": "tax-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "retirement-planning",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/AISidebar.jsx",
+      "canonical": "retirement-planning",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "rebalancing",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/AISidebar.jsx",
+      "canonical": "rebalancing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "esg-analysis",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/AISidebar.jsx",
+      "canonical": "esg-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "estate-planning",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/AISidebar.jsx",
+      "canonical": "estate-planning",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/clients",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/households",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "households",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/portfolios",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "portfolios",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/model-portfolios",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "model-portfolios",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/transactions",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "transactions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/assets",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "assets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/custodian-accounts",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "custodian-accounts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/watchlist",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "watchlist",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/goals",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "goals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/cash-flow-plans",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "cash-flow-plans",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/insurance-plans",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "insurance-plans",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/alerts",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/fees",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "fees",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/documents",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/performance",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "performance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/investment-policies",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "investment-policies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/trust-beneficiaries",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "trust-beneficiaries",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/meeting-notes",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "meeting-notes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/advisor-tasks",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "advisor-tasks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/compliance-reviews",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "compliance-reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/tax-packages",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "tax-packages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/client-messages",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "client-messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/portfolio-analysis",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "portfolio-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/risk-assessment",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "risk-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/investment-recommendations",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "investment-recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/market-sentiment",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "market-sentiment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/tax-optimization",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "tax-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/retirement-planning",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "retirement-planning",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/rebalancing",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "rebalancing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/goal-planning",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "goal-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/esg-analysis",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "esg-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/estate-planning",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "estate-planning",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/churn-prediction",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "churn-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/behavioral-coaching",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "canonical": "behavioral-coaching",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/clients",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/pages/Dashboard.jsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/portfolios",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/pages/Dashboard.jsx",
+      "canonical": "portfolios",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/alerts",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/pages/Dashboard.jsx",
+      "canonical": "alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/performance",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/pages/Dashboard.jsx",
+      "canonical": "performance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/portfolio-analysis",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/pages/Dashboard.jsx",
+      "canonical": "portfolio-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/risk-assessment",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/pages/Dashboard.jsx",
+      "canonical": "risk-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/investment-recommendations",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/pages/Dashboard.jsx",
+      "canonical": "investment-recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/market-sentiment",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/pages/Dashboard.jsx",
+      "canonical": "market-sentiment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/tax-optimization",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/pages/Dashboard.jsx",
+      "canonical": "tax-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/retirement-planning",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/pages/Dashboard.jsx",
+      "canonical": "retirement-planning",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/rebalancing",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/pages/Dashboard.jsx",
+      "canonical": "rebalancing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/goal-planning",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/pages/Dashboard.jsx",
+      "canonical": "goal-planning",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/esg-analysis",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/pages/Dashboard.jsx",
+      "canonical": "esg-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "/ai/estate-planning",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/pages/Dashboard.jsx",
+      "canonical": "estate-planning",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "batch09/cfs/multi-generational-wealth-planning-with-trust-structure-opti",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "batch09-cfs-multi-generational-wealth-planning-with-trust-structure-opti",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "batch09/cfs/behavioral-finance-coaching-track-bias-suggest-interventions",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "batch09-cfs-behavioral-finance-coaching-track-bias-suggest-interventions",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "batch09/cfs/real-time-rebalancing-via-options-strategies-covered-calls-f",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "batch09-cfs-real-time-rebalancing-via-options-strategies-covered-calls-f",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "batch09/cfs/predictive-client-churn-modeling-with-retention-ai",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "batch09-cfs-predictive-client-churn-modeling-with-retention-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "batch09/cfs/institutional-research-integration-for-etfstock-filtering",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "batch09-cfs-institutional-research-integration-for-etfstock-filtering",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "batch09/cfs/white-label-co-branding-api",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "batch09-cfs-white-label-co-branding-api",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "batch09/cfs/voice-advisory-for-natural-language-goal-setting",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "batch09-cfs-voice-advisory-for-natural-language-goal-setting",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "batch09/cfs/accountanttax-preparer-collaboration-for-end-to-end-tax-plan",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "batch09-cfs-accountanttax-preparer-collaboration-for-end-to-end-tax-plan",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "batch09/gap-nonai/regulatory-reporting-form-adv-reg-bi",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "batch09-gap-nonai-regulatory-reporting-form-adv-reg-bi",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "batch09/gap-nonai/compliance-audit-trail-and-reviewer-queue",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "batch09-gap-nonai-compliance-audit-trail-and-reviewer-queue",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "batch09/gap-nonai/beneficiary-and-trust-account-management",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "batch09-gap-nonai-beneficiary-and-trust-account-management",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "batch09/gap-nonai/external-brokercustodian-account-aggregation",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "batch09-gap-nonai-external-brokercustodian-account-aggregation",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "batch09/gap-nonai/granular-notification-preference-center",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "batch09-gap-nonai-granular-notification-preference-center",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "batch09/gap-nonai/tax-form-generation-1099-k-1-and-downloads",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "batch09-gap-nonai-tax-form-generation-1099-k-1-and-downloads",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "batch09/gap-nonai/client-meeting-notes-crm-integration",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "batch09-gap-nonai-client-meeting-notes-crm-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "multi-gen-wealth",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "multi-gen-wealth",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "behavioral-coaching",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "behavioral-coaching",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "options-rebalance",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "options-rebalance",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "churn-prediction",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "churn-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "inst-research-filter",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "inst-research-filter",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "white-label",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "white-label",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "voice-goal",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "voice-goal",
+      "kind": "route"
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "sourceKey": "tax-collab",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "canonical": "tax-collab",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "market",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/AICenter.jsx",
+      "canonical": "market",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "portfolio",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/AICenter.jsx",
+      "canonical": "portfolio",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "trade",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/AICenter.jsx",
+      "canonical": "trade",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "risk",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/AICenter.jsx",
+      "canonical": "risk",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "options",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/AICenter.jsx",
+      "canonical": "options",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "politician",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/AICenter.jsx",
+      "canonical": "politician",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "/trailing-stops",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/Dashboard.jsx",
+      "canonical": "trailing-stops",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "/copy-trades",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/Dashboard.jsx",
+      "canonical": "copy-trades",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "/wheel-strategies",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/Dashboard.jsx",
+      "canonical": "wheel-strategies",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "/watchlist",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/Dashboard.jsx",
+      "canonical": "watchlist",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "/trade-journal",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/Dashboard.jsx",
+      "canonical": "trade-journal",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "/price-alerts",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/Dashboard.jsx",
+      "canonical": "price-alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "/trade-signals",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/Dashboard.jsx",
+      "canonical": "trade-signals",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "/stock-screener",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/Dashboard.jsx",
+      "canonical": "stock-screener",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "/risk-assessments",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/Dashboard.jsx",
+      "canonical": "risk-assessments",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "/portfolio",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/Dashboard.jsx",
+      "canonical": "portfolio",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "/sentiment",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/Dashboard.jsx",
+      "canonical": "sentiment",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "/options-chain",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/Dashboard.jsx",
+      "canonical": "options-chain",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "/market-news",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/Dashboard.jsx",
+      "canonical": "market-news",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "/docs",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/Dashboard.jsx",
+      "canonical": "docs",
+      "kind": "definition"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "signal-charts",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "signal-charts",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "alpaca-trading",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "alpaca-trading",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "broker-governance",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "broker-governance",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "auto-trader",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "auto-trader",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "strategy-lab",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "strategy-lab",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "event-calendar",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "event-calendar",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "audit-log",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "trade-replay",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "trade-replay",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "notifications",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "themes",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "themes",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "hyperopt",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "hyperopt",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "strategy-audit",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "strategy-audit",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "protections",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "protections",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "edge",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "edge",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "saved-backtests",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "saved-backtests",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "strategy-migrator",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "strategy-migrator",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "freqai-models",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "freqai-models",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "exchanges",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "exchanges",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "plots",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "plots",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "producer-consumer",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "producer-consumer",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "freqtrade-api",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "freqtrade-api",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "strategy-editor",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "strategy-editor",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "leverage",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "leverage",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "backtest-analysis",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "backtest-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "utilities",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "utilities",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "hyperopt-advanced",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "hyperopt-advanced",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "orderflow",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "orderflow",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "rl-lite",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "rl-lite",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "freqai-sidecar",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "freqai-sidecar",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "strategy-ab",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "strategy-ab",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "slippage-attribution",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "slippage-attribution",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "batch09/cfs/predictive-equity-curve-drawdown-recovery-time",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "batch09-cfs-predictive-equity-curve-drawdown-recovery-time",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "batch09/cfs/strategy-correlation-analysis-to-avoid-redundancy",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "batch09-cfs-strategy-correlation-analysis-to-avoid-redundancy",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "batch09/cfs/walk-forward-analysis-automation",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "batch09-cfs-walk-forward-analysis-automation",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "batch09/cfs/trade-journal-nlp-lesson-extraction",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "batch09-cfs-trade-journal-nlp-lesson-extraction",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "batch09/cfs/broker-integration-for-live-trading-alpaca-already-partial",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "batch09-cfs-broker-integration-for-live-trading-alpaca-already-partial",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "batch09/cfs/real-time-strategy-monitoring-with-anomaly-alerts",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "batch09-cfs-real-time-strategy-monitoring-with-anomaly-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "batch09/cfs/community-strategy-marketplace-with-performance-filtering",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "batch09-cfs-community-strategy-marketplace-with-performance-filtering",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "batch09/cfs/regulatory-reporting-automation",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "batch09-cfs-regulatory-reporting-automation",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "batch09/gap-ai/ai-walk-forward-curve-fitting-detector",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "batch09-gap-ai-ai-walk-forward-curve-fitting-detector",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "batch09/gap-ai/ai-trade-journal-lesson-extractor",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "batch09-gap-ai-ai-trade-journal-lesson-extractor",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "batch09/gap-nonai/tax-lot-wash-sale-tracking",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "batch09-gap-nonai-tax-lot-wash-sale-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "batch09/gap-nonai/regulatory-compliance-finra-mifid-reporting",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "batch09-gap-nonai-regulatory-compliance-finra-mifid-reporting",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "batch09/gap-nonai/multi-account-allocation-pmm-style",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "batch09-gap-nonai-multi-account-allocation-pmm-style",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "batch09/gap-nonai/strategy-marketplace-with-monetization",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "batch09-gap-nonai-strategy-marketplace-with-monetization",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "batch09/gap-nonai/kycaml-workflow-for-paid-users",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "batch09-gap-nonai-kycaml-workflow-for-paid-users",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "equity-curve-forecast",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "equity-curve-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "strategy-correlation",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "strategy-correlation",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "walk-forward",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "walk-forward",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "trade-journal-lessons",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "trade-journal-lessons",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "broker-readiness",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "broker-readiness",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "realtime-monitor",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "realtime-monitor",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "marketplace-rank",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "marketplace-rank",
+      "kind": "route"
+    },
+    {
+      "project": "claudeTrading",
+      "sourceKey": "regulatory-report",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "canonical": "regulatory-report",
+      "kind": "route"
+    },
+    {
+      "project": "investment",
+      "sourceKey": "investment",
+      "source": "/Volumes/external/projects/investment",
+      "canonical": "investment",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/clients",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/companies",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "companies",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/contacts",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/partners",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "partners",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/meetings",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "meetings",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/projects",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "matters",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/tasks",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "tasks",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/proposals",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "proposals",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/orders",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "orders",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/pipeline",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "pipeline",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/talent",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "talent",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/candidates",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "candidates",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/executive-search",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "executive-search",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/services",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "services",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/invoices",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/payments",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "payments",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/investments",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "investments",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/revenue",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "revenue",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/kpis",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "kpis",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/strategies",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "strategies",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/case-studies",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "case-studies",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/insights",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "insights",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/ai/strategy-advisor",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "strategy-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/ai/market-analysis",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "market-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/ai/talent-matcher",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "talent-matcher",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/ai/report-generator",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "report-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/ai/proposal-assistant",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "proposal-assistant",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/ai/investment-thesis-analyzer",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "investment-thesis-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/ai/talent-brief-generator",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "talent-brief-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/gap/proposal-writing",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "proposal-writing",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/gap/due-diligence",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "due-diligence",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/gap/role-spec",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "role-spec",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/gap/meeting-summarizer",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "meeting-summarizer",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/gap/kpi-anomaly",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "kpi-anomaly",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/gap/deal-stage",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "deal-stage",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/gap/document-management",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "document-management",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/gap/subscription-billing",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "subscription-billing",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/gap/crm-sync",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "crm-sync",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/gap/calendar-integration",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "calendar-integration",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/cfs/pipeline-tracker",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "cfs-pipeline-tracker",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/cfs/proposal-workflow",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "cfs-proposal-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/cfs/rag-literature",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "cfs-rag-literature",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/cfs/voice-strategy",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "cfs-voice-strategy",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/cfs/multi-tenant",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "canonical": "cfs-multi-tenant",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/value-delivery-system",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/PublicLayout.jsx",
+      "canonical": "value-delivery-system",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/public/services",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/PublicLayout.jsx",
+      "canonical": "services",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/industries",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/PublicLayout.jsx",
+      "canonical": "industries",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/markets",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/PublicLayout.jsx",
+      "canonical": "markets",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/public/insights",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/PublicLayout.jsx",
+      "canonical": "insights",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/public/partnerships",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/PublicLayout.jsx",
+      "canonical": "public-partnerships",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "/contact",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/PublicLayout.jsx",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "gap-proposal-writing-assistant",
+      "source": "/Volumes/external/projects/multiverseinvestment",
+      "canonical": "proposal-writing-assistant",
+      "kind": "route"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "gap-due-diligence-analyzer",
+      "source": "/Volumes/external/projects/multiverseinvestment",
+      "canonical": "due-diligence-analyzer",
+      "kind": "route"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "gap-role-spec-generator",
+      "source": "/Volumes/external/projects/multiverseinvestment",
+      "canonical": "role-spec-generator",
+      "kind": "route"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "gap-meeting-summarizer",
+      "source": "/Volumes/external/projects/multiverseinvestment",
+      "canonical": "meeting-summarizer",
+      "kind": "route"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "gap-kpi-anomaly-explainer",
+      "source": "/Volumes/external/projects/multiverseinvestment",
+      "canonical": "kpi-anomaly-explainer",
+      "kind": "route"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "gap-deal-stage-automation",
+      "source": "/Volumes/external/projects/multiverseinvestment",
+      "canonical": "deal-stage-automation",
+      "kind": "route"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "gap-document-management",
+      "source": "/Volumes/external/projects/multiverseinvestment",
+      "canonical": "document-management",
+      "kind": "route"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "gap-subscription-billing",
+      "source": "/Volumes/external/projects/multiverseinvestment",
+      "canonical": "subscription-billing",
+      "kind": "route"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "gap-crm-sync",
+      "source": "/Volumes/external/projects/multiverseinvestment",
+      "canonical": "crm-sync",
+      "kind": "route"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "gap-calendar-integration",
+      "source": "/Volumes/external/projects/multiverseinvestment",
+      "canonical": "calendar-integration",
+      "kind": "route"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "gap-features/_audit",
+      "source": "/Volumes/external/projects/multiverseinvestment",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "multiverseinvestment",
+      "sourceKey": "join-talent-network",
+      "source": "/Volumes/external/projects/multiverseinvestment",
+      "canonical": "join-talent-network",
+      "kind": "route"
+    },
+    {
+      "project": "trading",
+      "sourceKey": "gap-sentiment-analyzer",
+      "source": "/Volumes/external/projects/trading",
+      "canonical": "sentiment-analyzer",
+      "kind": "route"
+    },
+    {
+      "project": "trading",
+      "sourceKey": "gap-risk-calculator",
+      "source": "/Volumes/external/projects/trading",
+      "canonical": "risk-assessments",
+      "kind": "route"
+    },
+    {
+      "project": "trading",
+      "sourceKey": "gap-correlation-analyzer",
+      "source": "/Volumes/external/projects/trading",
+      "canonical": "correlation-analyzer",
+      "kind": "route"
+    },
+    {
+      "project": "trading",
+      "sourceKey": "gap-alert-optimizer",
+      "source": "/Volumes/external/projects/trading",
+      "canonical": "alert-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "trading",
+      "sourceKey": "gap-research-summarizer",
+      "source": "/Volumes/external/projects/trading",
+      "canonical": "research-summarizer",
+      "kind": "route"
+    },
+    {
+      "project": "trading",
+      "sourceKey": "gap-realtime-websocket",
+      "source": "/Volumes/external/projects/trading",
+      "canonical": "realtime-websocket",
+      "kind": "route"
+    },
+    {
+      "project": "trading",
+      "sourceKey": "gap-options-strategies",
+      "source": "/Volumes/external/projects/trading",
+      "canonical": "options-strategies",
+      "kind": "route"
+    },
+    {
+      "project": "trading",
+      "sourceKey": "gap-tax-loss-harvesting",
+      "source": "/Volumes/external/projects/trading",
+      "canonical": "tax-loss-harvesting",
+      "kind": "route"
+    },
+    {
+      "project": "trading",
+      "sourceKey": "gap-paper-trading-sim",
+      "source": "/Volumes/external/projects/trading",
+      "canonical": "paper-trading-sim",
+      "kind": "route"
+    },
+    {
+      "project": "trading",
+      "sourceKey": "gap-social-trading",
+      "source": "/Volumes/external/projects/trading",
+      "canonical": "social-trading",
+      "kind": "route"
+    },
+    {
+      "project": "trading",
+      "sourceKey": "gap-risk-management-rules",
+      "source": "/Volumes/external/projects/trading",
+      "canonical": "risk-management-rules",
+      "kind": "route"
+    },
+    {
+      "project": "trading",
+      "sourceKey": "gap-features/_audit",
+      "source": "/Volumes/external/projects/trading",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "trading",
+      "sourceKey": "paper-trading",
+      "source": "/Volumes/external/projects/trading",
+      "canonical": "paper-trading",
+      "kind": "route"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-401k-revenue-sharing-fee-recapture",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-401k-revenue-sharing-fee-recapture/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-fund-administration-nav-fee-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-fund-administration-nav-fee-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-investment-fund-expense-allocation-control",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-investment-fund-expense-allocation-control/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-prime-brokerage-margin-interest-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-prime-brokerage-margin-interest-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-private-equity-management-fee-offset-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-private-equity-management-fee-offset-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-securities-lending-revenue-share-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-securities-lending-revenue-share-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-treasury-bank-fee-earnings-credit-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-treasury-bank-fee-earnings-credit-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIFamilyOfficeManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFamilyOfficeManager",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIVCDealFlowCopilot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVCDealFlowCopilot",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor/client/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIWealthManagementRoboAdvisor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWealthManagementRoboAdvisor",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "claudeTrading",
+      "key": "/ai-center",
+      "source": "/Volumes/external/projects/claudeTrading/client/src/pages/Dashboard.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "claudeTrading",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "claudeTrading",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "claudeTrading",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "claudeTrading",
+      "key": "login",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "claudeTrading",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "claudeTrading",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "claudeTrading",
+      "key": "account",
+      "source": "/Volumes/external/projects/claudeTrading",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "claudeTrading",
+      "key": "/batch09/gap-ai/ai-portfolio-ri[redacted]",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "multiverseinvestment",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "multiverseinvestment",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "multiverseinvestment",
+      "key": "/",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/PublicLayout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "multiverseinvestment",
+      "key": "/about",
+      "source": "/Volumes/external/projects/multiverseinvestment/frontend/src/components/PublicLayout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "multiverseinvestment",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/multiverseinvestment",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "multiverseinvestment",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/multiverseinvestment",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "multiverseinvestment",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "multiverseinvestment",
+      "key": "about",
+      "source": "/Volumes/external/projects/multiverseinvestment",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "multiverseinvestment",
+      "key": "login",
+      "source": "/Volumes/external/projects/multiverseinvestment",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "multiverseinvestment",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/multiverseinvestment",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "multiverseinvestment",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/multiverseinvestment",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "trading",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "trading",
+      "key": "login",
+      "source": "/Volumes/external/projects/trading",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "trading",
+      "key": "register",
+      "source": "/Volumes/external/projects/trading",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "trading",
+      "key": "profile",
+      "source": "/Volumes/external/projects/trading",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "trading",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/trading",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "trading",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "recordkeeping-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "investment-option-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "participant-balance-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "revenue-sharing-rate-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "12b-1-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "sub-ta-fee-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "shareholder-service-fee",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "gross-to-net-expense-review",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "required-revenue-credit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "recordkeeper-statement-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "participant-allocation-method",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "excess-fee-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-correction-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fiduciary-evidence-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "plan-option-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "administration-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fund-share-class-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "daily-monthly-nav-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "asset-tier-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "investor-account-counts",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "transaction-volume-counts",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "base-administration-fee",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fund-accounting-fee",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "transfer-agency-fee",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "performance-fee-support",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "service-credit-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-recalculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "administrator-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payment-credit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fund-vendor-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "allocation-policy-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fund-entity-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "vendor-invoice-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "expense-category-classification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "manager-versus-fund-test",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "shared-service-allocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "time-record-allocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "broken-deal-allocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "co-investment-treatment",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cross-fund-allocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "class-level-allocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "policy-exception-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reimbursement-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "nav-correction-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fund-expense-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "prime-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "account-entity-hierarchy",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "daily-cash-balance-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "margin-loan-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "benchmark-rate-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "spread-tier-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "day-count-convention",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "currency-basis-adjustment",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cross-account-netting",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-interest-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "stock-borrow-fee-linkage",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "statement-charge-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "broker-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-credit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "broker-fund-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "lpa-fee-terms",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "investor-commitment-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "investment-period-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fee-base-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "step-down-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "transaction-fee-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "monitoring-fee-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "director-fee-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "offset-percentage-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "broken-deal-expense-review",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "waiver-and-rebate-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "capital-account-allocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "quarterly-statement-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "gp-correction-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fund-investor-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "agency-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "eligible-security-inventory",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "loan-transaction-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "collateral-balance-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "borrower-fee-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rebate-rate-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "collateral-reinvestment-income",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "specials-premium-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "indemnification-fee-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "revenue-share-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "custodian-statement-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "corporate-action-treatment",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "exception-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "program-security-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "bank-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "account-and-service-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "analysis-statement-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "afp-code-normalization",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "unit-price-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "volume-and-usage-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "duplicate-service-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "closed-account-fee-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "earnings-credit-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "compensating-balance-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "deposit-assessment-review",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "wire-ach-and-lockbox-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "bank-exception-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "relationship-scorecard",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "account-service-optimization-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "project": "investment",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    }
+  ]
+}

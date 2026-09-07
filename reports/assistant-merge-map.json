@@ -1,0 +1,1293 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "ic-memo-draft",
+      "lp-report-draft",
+      "intro-message-draft",
+      "document-analysis",
+      "report-generator",
+      "proposal-assistant",
+      "meeting-summarizer",
+      "proposal-writing-assistant",
+      "research-summarizer"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 12 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "ic-memo-draft",
+        "title": "AI · IC Memo Draft",
+        "originalPath": "/features/ic-memo-draft"
+      },
+      {
+        "id": "lp-report-draft",
+        "title": "AI · LP Report Draft",
+        "originalPath": "/features/lp-report-draft"
+      },
+      {
+        "id": "intro-message-draft",
+        "title": "AI · Intro Message Draft",
+        "originalPath": "/features/intro-message-draft"
+      },
+      {
+        "id": "document-analysis",
+        "title": "Document Review",
+        "originalPath": "/features/document-analysis"
+      },
+      {
+        "id": "report-generator",
+        "title": "Report Generator",
+        "originalPath": "/features/report-generator"
+      },
+      {
+        "id": "proposal-assistant",
+        "title": "Proposal Assistant",
+        "originalPath": "/features/proposal-assistant"
+      },
+      {
+        "id": "meeting-summarizer",
+        "title": "Meeting Summarizer",
+        "originalPath": "/features/meeting-summarizer"
+      },
+      {
+        "id": "proposal-writing-assistant",
+        "title": "proposal writing assistant",
+        "originalPath": "/features/proposal-writing-assistant"
+      },
+      {
+        "id": "research-summarizer",
+        "title": "research summarizer",
+        "originalPath": "/features/research-summarizer"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "recordkeeping-agreement-library",
+      "investment-option-registry",
+      "participant-balance-ingestion",
+      "12b-1-calculation",
+      "gross-to-net-expense-review",
+      "participant-allocation-method",
+      "plan-option-analytics",
+      "administration-agreement-library",
+      "fund-share-class-registry",
+      "daily-monthly-nav-ingestion",
+      "asset-tier-calculation",
+      "investor-account-counts",
+      "transaction-volume-counts",
+      "administrator-dispute-workflow",
+      "fund-vendor-analytics",
+      "fund-entity-registry",
+      "manager-versus-fund-test",
+      "shared-service-allocation",
+      "time-record-allocation",
+      "broken-deal-allocation",
+      "co-investment-treatment",
+      "cross-fund-allocation",
+      "class-level-allocation",
+      "fund-expense-analytics",
+      "prime-agreement-library",
+      "account-entity-hierarchy",
+      "daily-cash-balance-ingestion",
+      "margin-loan-calculation",
+      "spread-tier-calculation",
+      "day-count-convention",
+      "currency-basis-adjustment",
+      "cross-account-netting",
+      "broker-dispute-workflow",
+      "broker-fund-analytics",
+      "investor-commitment-registry",
+      "step-down-calculation",
+      "offset-percentage-calculation",
+      "broken-deal-expense-review",
+      "capital-account-allocation",
+      "gp-correction-workflow",
+      "fund-investor-analytics",
+      "agency-agreement-library",
+      "loan-transaction-ingestion",
+      "rebate-rate-calculation",
+      "collateral-reinvestment-income",
+      "corporate-action-treatment",
+      "bank-agreement-library",
+      "account-and-service-registry",
+      "afp-code-normalization",
+      "compensating-balance-calculation",
+      "deposit-assessment-review",
+      "trust-distribution-suggest",
+      "illiquid-valuation-band",
+      "charitable-vehicle-recommend",
+      "executive-brief",
+      "governance-memo-draft",
+      "succession-readiness",
+      "generational-impact",
+      "art-provenance-check",
+      "education-distribution-rule",
+      "charitable-impact-report",
+      "family-meeting-agenda",
+      "asset-allocation-rebalance",
+      "beneficiary-onboarding",
+      "founder-call-summary",
+      "valuation-band",
+      "exit-scenario",
+      "portfolio-flag",
+      "term-sheet-compare",
+      "market-mapping",
+      "founder-redflag-extract",
+      "cap-table-impact",
+      "distribution-waterfall",
+      "fund-strategy-brief",
+      "pitch-deck-extract",
+      "dd-qa-generate",
+      "market-size-estimate",
+      "founder-background-summary",
+      "fundraising-pipeline",
+      "retirement-planning",
+      "rebalancing",
+      "estate-planning",
+      "investment-recommendations",
+      "goal-planning",
+      "batch09-gap-nonai-beneficiary-and-trust-account-management",
+      "batch09-gap-nonai-external-brokercustodian-account-aggregation",
+      "batch09-gap-nonai-granular-notification-preference-center",
+      "market",
+      "portfolio",
+      "trade",
+      "options",
+      "freqai-models",
+      "freqai-sidecar",
+      "batch09-gap-ai-ai-trade-journal-lesson-extractor",
+      "batch09-gap-nonai-strategy-marketplace-with-monetization",
+      "batch09-gap-nonai-kycaml-workflow-for-paid-users",
+      "investment",
+      "role-spec-generator"
+    ],
+    "ai": true,
+    "representativeId": "recordkeeping-agreement-library",
+    "description": "One assistant for 98 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "recordkeeping-agreement-library",
+        "title": "Recordkeeping agreement library",
+        "originalPath": "/features/recordkeeping-agreement-library"
+      },
+      {
+        "id": "investment-option-registry",
+        "title": "Investment option registry",
+        "originalPath": "/features/investment-option-registry"
+      },
+      {
+        "id": "participant-balance-ingestion",
+        "title": "Participant balance ingestion",
+        "originalPath": "/features/participant-balance-ingestion"
+      },
+      {
+        "id": "12b-1-calculation",
+        "title": "12b-1 calculation",
+        "originalPath": "/features/12b-1-calculation"
+      },
+      {
+        "id": "gross-to-net-expense-review",
+        "title": "Gross-to-net expense review",
+        "originalPath": "/features/gross-to-net-expense-review"
+      },
+      {
+        "id": "participant-allocation-method",
+        "title": "Participant allocation method",
+        "originalPath": "/features/participant-allocation-method"
+      },
+      {
+        "id": "plan-option-analytics",
+        "title": "Plan option analytics",
+        "originalPath": "/features/plan-option-analytics"
+      },
+      {
+        "id": "administration-agreement-library",
+        "title": "Administration agreement library",
+        "originalPath": "/features/administration-agreement-library"
+      },
+      {
+        "id": "fund-share-class-registry",
+        "title": "Fund share-class registry",
+        "originalPath": "/features/fund-share-class-registry"
+      },
+      {
+        "id": "daily-monthly-nav-ingestion",
+        "title": "Daily monthly NAV ingestion",
+        "originalPath": "/features/daily-monthly-nav-ingestion"
+      },
+      {
+        "id": "asset-tier-calculation",
+        "title": "Asset tier calculation",
+        "originalPath": "/features/asset-tier-calculation"
+      },
+      {
+        "id": "investor-account-counts",
+        "title": "Investor account counts",
+        "originalPath": "/features/investor-account-counts"
+      },
+      {
+        "id": "transaction-volume-counts",
+        "title": "Transaction volume counts",
+        "originalPath": "/features/transaction-volume-counts"
+      },
+      {
+        "id": "administrator-dispute-workflow",
+        "title": "Administrator dispute workflow",
+        "originalPath": "/features/administrator-dispute-workflow"
+      },
+      {
+        "id": "fund-vendor-analytics",
+        "title": "Fund vendor analytics",
+        "originalPath": "/features/fund-vendor-analytics"
+      },
+      {
+        "id": "fund-entity-registry",
+        "title": "Fund entity registry",
+        "originalPath": "/features/fund-entity-registry"
+      },
+      {
+        "id": "manager-versus-fund-test",
+        "title": "Manager versus fund test",
+        "originalPath": "/features/manager-versus-fund-test"
+      },
+      {
+        "id": "shared-service-allocation",
+        "title": "Shared service allocation",
+        "originalPath": "/features/shared-service-allocation"
+      },
+      {
+        "id": "time-record-allocation",
+        "title": "Time-record allocation",
+        "originalPath": "/features/time-record-allocation"
+      },
+      {
+        "id": "broken-deal-allocation",
+        "title": "Broken-deal allocation",
+        "originalPath": "/features/broken-deal-allocation"
+      },
+      {
+        "id": "co-investment-treatment",
+        "title": "Co-investment treatment",
+        "originalPath": "/features/co-investment-treatment"
+      },
+      {
+        "id": "cross-fund-allocation",
+        "title": "Cross-fund allocation",
+        "originalPath": "/features/cross-fund-allocation"
+      },
+      {
+        "id": "class-level-allocation",
+        "title": "Class-level allocation",
+        "originalPath": "/features/class-level-allocation"
+      },
+      {
+        "id": "fund-expense-analytics",
+        "title": "Fund expense analytics",
+        "originalPath": "/features/fund-expense-analytics"
+      },
+      {
+        "id": "prime-agreement-library",
+        "title": "Prime agreement library",
+        "originalPath": "/features/prime-agreement-library"
+      },
+      {
+        "id": "account-entity-hierarchy",
+        "title": "Account entity hierarchy",
+        "originalPath": "/features/account-entity-hierarchy"
+      },
+      {
+        "id": "daily-cash-balance-ingestion",
+        "title": "Daily cash balance ingestion",
+        "originalPath": "/features/daily-cash-balance-ingestion"
+      },
+      {
+        "id": "margin-loan-calculation",
+        "title": "Margin loan calculation",
+        "originalPath": "/features/margin-loan-calculation"
+      },
+      {
+        "id": "spread-tier-calculation",
+        "title": "Spread tier calculation",
+        "originalPath": "/features/spread-tier-calculation"
+      },
+      {
+        "id": "day-count-convention",
+        "title": "Day-count convention",
+        "originalPath": "/features/day-count-convention"
+      },
+      {
+        "id": "currency-basis-adjustment",
+        "title": "Currency basis adjustment",
+        "originalPath": "/features/currency-basis-adjustment"
+      },
+      {
+        "id": "cross-account-netting",
+        "title": "Cross-account netting",
+        "originalPath": "/features/cross-account-netting"
+      },
+      {
+        "id": "broker-dispute-workflow",
+        "title": "Broker dispute workflow",
+        "originalPath": "/features/broker-dispute-workflow"
+      },
+      {
+        "id": "broker-fund-analytics",
+        "title": "Broker fund analytics",
+        "originalPath": "/features/broker-fund-analytics"
+      },
+      {
+        "id": "investor-commitment-registry",
+        "title": "Investor commitment registry",
+        "originalPath": "/features/investor-commitment-registry"
+      },
+      {
+        "id": "step-down-calculation",
+        "title": "Step-down calculation",
+        "originalPath": "/features/step-down-calculation"
+      },
+      {
+        "id": "offset-percentage-calculation",
+        "title": "Offset percentage calculation",
+        "originalPath": "/features/offset-percentage-calculation"
+      },
+      {
+        "id": "broken-deal-expense-review",
+        "title": "Broken-deal expense review",
+        "originalPath": "/features/broken-deal-expense-review"
+      },
+      {
+        "id": "capital-account-allocation",
+        "title": "Capital account allocation",
+        "originalPath": "/features/capital-account-allocation"
+      },
+      {
+        "id": "gp-correction-workflow",
+        "title": "GP correction workflow",
+        "originalPath": "/features/gp-correction-workflow"
+      },
+      {
+        "id": "fund-investor-analytics",
+        "title": "Fund investor analytics",
+        "originalPath": "/features/fund-investor-analytics"
+      },
+      {
+        "id": "agency-agreement-library",
+        "title": "Agency agreement library",
+        "originalPath": "/features/agency-agreement-library"
+      },
+      {
+        "id": "loan-transaction-ingestion",
+        "title": "Loan transaction ingestion",
+        "originalPath": "/features/loan-transaction-ingestion"
+      },
+      {
+        "id": "rebate-rate-calculation",
+        "title": "Rebate rate calculation",
+        "originalPath": "/features/rebate-rate-calculation"
+      },
+      {
+        "id": "collateral-reinvestment-income",
+        "title": "Collateral reinvestment income",
+        "originalPath": "/features/collateral-reinvestment-income"
+      },
+      {
+        "id": "corporate-action-treatment",
+        "title": "Corporate action treatment",
+        "originalPath": "/features/corporate-action-treatment"
+      },
+      {
+        "id": "bank-agreement-library",
+        "title": "Bank agreement library",
+        "originalPath": "/features/bank-agreement-library"
+      },
+      {
+        "id": "account-and-service-registry",
+        "title": "Account and service registry",
+        "originalPath": "/features/account-and-service-registry"
+      },
+      {
+        "id": "afp-code-normalization",
+        "title": "AFP code normalization",
+        "originalPath": "/features/afp-code-normalization"
+      },
+      {
+        "id": "compensating-balance-calculation",
+        "title": "Compensating balance calculation",
+        "originalPath": "/features/compensating-balance-calculation"
+      },
+      {
+        "id": "deposit-assessment-review",
+        "title": "Deposit assessment review",
+        "originalPath": "/features/deposit-assessment-review"
+      },
+      {
+        "id": "trust-distribution-suggest",
+        "title": "AI · Trust Distribution",
+        "originalPath": "/features/trust-distribution-suggest"
+      },
+      {
+        "id": "illiquid-valuation-band",
+        "title": "AI · Illiquid Valuation",
+        "originalPath": "/features/illiquid-valuation-band"
+      },
+      {
+        "id": "charitable-vehicle-recommend",
+        "title": "AI · Charitable Vehicle",
+        "originalPath": "/features/charitable-vehicle-recommend"
+      },
+      {
+        "id": "executive-brief",
+        "title": "AI · Executive Brief",
+        "originalPath": "/features/executive-brief"
+      },
+      {
+        "id": "governance-memo-draft",
+        "title": "AI · Governance Memo",
+        "originalPath": "/features/governance-memo-draft"
+      },
+      {
+        "id": "succession-readiness",
+        "title": "AI · Succession Readiness",
+        "originalPath": "/features/succession-readiness"
+      },
+      {
+        "id": "generational-impact",
+        "title": "AI · Generational Impact",
+        "originalPath": "/features/generational-impact"
+      },
+      {
+        "id": "art-provenance-check",
+        "title": "AI · Art Provenance",
+        "originalPath": "/features/art-provenance-check"
+      },
+      {
+        "id": "education-distribution-rule",
+        "title": "AI · Education Rule",
+        "originalPath": "/features/education-distribution-rule"
+      },
+      {
+        "id": "charitable-impact-report",
+        "title": "AI · Charitable Impact",
+        "originalPath": "/features/charitable-impact-report"
+      },
+      {
+        "id": "family-meeting-agenda",
+        "title": "AI · Meeting Agenda",
+        "originalPath": "/features/family-meeting-agenda"
+      },
+      {
+        "id": "asset-allocation-rebalance",
+        "title": "AI · Allocation Rebalance",
+        "originalPath": "/features/asset-allocation-rebalance"
+      },
+      {
+        "id": "beneficiary-onboarding",
+        "title": "AI · Beneficiary Onboarding",
+        "originalPath": "/features/beneficiary-onboarding"
+      },
+      {
+        "id": "founder-call-summary",
+        "title": "AI · Founder Call Summary",
+        "originalPath": "/features/founder-call-summary"
+      },
+      {
+        "id": "valuation-band",
+        "title": "AI · Valuation Band",
+        "originalPath": "/features/valuation-band"
+      },
+      {
+        "id": "exit-scenario",
+        "title": "AI · Exit Scenario",
+        "originalPath": "/features/exit-scenario"
+      },
+      {
+        "id": "portfolio-flag",
+        "title": "AI · Portfolio Flag",
+        "originalPath": "/features/portfolio-flag"
+      },
+      {
+        "id": "term-sheet-compare",
+        "title": "AI · Term Sheet Compare",
+        "originalPath": "/features/term-sheet-compare"
+      },
+      {
+        "id": "market-mapping",
+        "title": "AI · Market Mapping",
+        "originalPath": "/features/market-mapping"
+      },
+      {
+        "id": "founder-redflag-extract",
+        "title": "AI · Founder Red-Flag Extract",
+        "originalPath": "/features/founder-redflag-extract"
+      },
+      {
+        "id": "cap-table-impact",
+        "title": "AI · Cap Table Impact",
+        "originalPath": "/features/cap-table-impact"
+      },
+      {
+        "id": "distribution-waterfall",
+        "title": "AI · Distribution Waterfall",
+        "originalPath": "/features/distribution-waterfall"
+      },
+      {
+        "id": "fund-strategy-brief",
+        "title": "AI · Fund Strategy Brief",
+        "originalPath": "/features/fund-strategy-brief"
+      },
+      {
+        "id": "pitch-deck-extract",
+        "title": "Pitch deck extract",
+        "originalPath": "/features/pitch-deck-extract"
+      },
+      {
+        "id": "dd-qa-generate",
+        "title": "Dd qa generate",
+        "originalPath": "/features/dd-qa-generate"
+      },
+      {
+        "id": "market-size-estimate",
+        "title": "Market size estimate",
+        "originalPath": "/features/market-size-estimate"
+      },
+      {
+        "id": "founder-background-summary",
+        "title": "Founder background summary",
+        "originalPath": "/features/founder-background-summary"
+      },
+      {
+        "id": "fundraising-pipeline",
+        "title": "Fundraising pipeline",
+        "originalPath": "/features/fundraising-pipeline"
+      },
+      {
+        "id": "retirement-planning",
+        "title": "Retirement Planning",
+        "originalPath": "/features/retirement-planning"
+      },
+      {
+        "id": "rebalancing",
+        "title": "Rebalancing",
+        "originalPath": "/features/rebalancing"
+      },
+      {
+        "id": "estate-planning",
+        "title": "Estate Planning",
+        "originalPath": "/features/estate-planning"
+      },
+      {
+        "id": "investment-recommendations",
+        "title": "Invest Recs",
+        "originalPath": "/features/investment-recommendations"
+      },
+      {
+        "id": "goal-planning",
+        "title": "AI Goal Planning",
+        "originalPath": "/features/goal-planning"
+      },
+      {
+        "id": "batch09-gap-nonai-beneficiary-and-trust-account-management",
+        "title": "Beneficiary and trust account management",
+        "originalPath": "/features/batch09-gap-nonai-beneficiary-and-trust-account-management"
+      },
+      {
+        "id": "batch09-gap-nonai-external-brokercustodian-account-aggregation",
+        "title": "External brokercustodian account aggregation",
+        "originalPath": "/features/batch09-gap-nonai-external-brokercustodian-account-aggregation"
+      },
+      {
+        "id": "batch09-gap-nonai-granular-notification-preference-center",
+        "title": "Granular notification preference center",
+        "originalPath": "/features/batch09-gap-nonai-granular-notification-preference-center"
+      },
+      {
+        "id": "market",
+        "title": "Market Summary",
+        "originalPath": "/features/market"
+      },
+      {
+        "id": "portfolio",
+        "title": "Portfolio Review",
+        "originalPath": "/features/portfolio"
+      },
+      {
+        "id": "trade",
+        "title": "Trade Idea",
+        "originalPath": "/features/trade"
+      },
+      {
+        "id": "options",
+        "title": "Options Strategy",
+        "originalPath": "/features/options"
+      },
+      {
+        "id": "freqai-models",
+        "title": "Freqai models",
+        "originalPath": "/features/freqai-models"
+      },
+      {
+        "id": "freqai-sidecar",
+        "title": "Freqai sidecar",
+        "originalPath": "/features/freqai-sidecar"
+      },
+      {
+        "id": "batch09-gap-ai-ai-trade-journal-lesson-extractor",
+        "title": "Trade journal lesson extractor",
+        "originalPath": "/features/batch09-gap-ai-ai-trade-journal-lesson-extractor"
+      },
+      {
+        "id": "batch09-gap-nonai-strategy-marketplace-with-monetization",
+        "title": "Strategy marketplace with monetization",
+        "originalPath": "/features/batch09-gap-nonai-strategy-marketplace-with-monetization"
+      },
+      {
+        "id": "batch09-gap-nonai-kycaml-workflow-for-paid-users",
+        "title": "Kycaml workflow for paid users",
+        "originalPath": "/features/batch09-gap-nonai-kycaml-workflow-for-paid-users"
+      },
+      {
+        "id": "investment",
+        "title": "Investment work",
+        "originalPath": "/features/investment"
+      },
+      {
+        "id": "role-spec-generator",
+        "title": "role spec generator",
+        "originalPath": "/features/role-spec-generator"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "revenue-sharing-rate-mapping",
+      "sub-ta-fee-calculation",
+      "shareholder-service-fee",
+      "required-revenue-credit",
+      "excess-fee-detection",
+      "credit-correction-workflow",
+      "base-administration-fee",
+      "fund-accounting-fee",
+      "transfer-agency-fee",
+      "performance-fee-support",
+      "service-credit-calculation",
+      "invoice-recalculation",
+      "payment-credit-reconciliation",
+      "vendor-invoice-ingestion",
+      "reimbursement-calculation",
+      "nav-correction-reconciliation",
+      "credit-interest-calculation",
+      "stock-borrow-fee-linkage",
+      "cash-credit-reconciliation",
+      "lpa-fee-terms",
+      "fee-base-calculation",
+      "transaction-fee-ingestion",
+      "monitoring-fee-ingestion",
+      "director-fee-ingestion",
+      "borrower-fee-calculation",
+      "indemnification-fee-control",
+      "revenue-share-calculation",
+      "cash-reconciliation",
+      "unit-price-validation",
+      "closed-account-fee-detection",
+      "earnings-credit-validation",
+      "refund-reconciliation",
+      "estate-tax-scenario",
+      "tax-loss-harvest",
+      "tax-optimization",
+      "batch09-gap-nonai-tax-form-generation-1099-k-1-and-downloads",
+      "batch09-gap-nonai-tax-lot-wash-sale-tracking"
+    ],
+    "ai": true,
+    "representativeId": "revenue-sharing-rate-mapping",
+    "description": "One assistant for 37 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "revenue-sharing-rate-mapping",
+        "title": "Revenue-sharing rate mapping",
+        "originalPath": "/features/revenue-sharing-rate-mapping"
+      },
+      {
+        "id": "sub-ta-fee-calculation",
+        "title": "Sub-TA fee calculation",
+        "originalPath": "/features/sub-ta-fee-calculation"
+      },
+      {
+        "id": "shareholder-service-fee",
+        "title": "Shareholder service fee",
+        "originalPath": "/features/shareholder-service-fee"
+      },
+      {
+        "id": "required-revenue-credit",
+        "title": "Required revenue credit",
+        "originalPath": "/features/required-revenue-credit"
+      },
+      {
+        "id": "excess-fee-detection",
+        "title": "Excess fee detection",
+        "originalPath": "/features/excess-fee-detection"
+      },
+      {
+        "id": "credit-correction-workflow",
+        "title": "Credit correction workflow",
+        "originalPath": "/features/credit-correction-workflow"
+      },
+      {
+        "id": "base-administration-fee",
+        "title": "Base administration fee",
+        "originalPath": "/features/base-administration-fee"
+      },
+      {
+        "id": "fund-accounting-fee",
+        "title": "Fund accounting fee",
+        "originalPath": "/features/fund-accounting-fee"
+      },
+      {
+        "id": "transfer-agency-fee",
+        "title": "Transfer agency fee",
+        "originalPath": "/features/transfer-agency-fee"
+      },
+      {
+        "id": "performance-fee-support",
+        "title": "Performance fee support",
+        "originalPath": "/features/performance-fee-support"
+      },
+      {
+        "id": "service-credit-calculation",
+        "title": "Service credit calculation",
+        "originalPath": "/features/service-credit-calculation"
+      },
+      {
+        "id": "invoice-recalculation",
+        "title": "Invoice recalculation",
+        "originalPath": "/features/invoice-recalculation"
+      },
+      {
+        "id": "payment-credit-reconciliation",
+        "title": "Payment credit reconciliation",
+        "originalPath": "/features/payment-credit-reconciliation"
+      },
+      {
+        "id": "vendor-invoice-ingestion",
+        "title": "Vendor invoice ingestion",
+        "originalPath": "/features/vendor-invoice-ingestion"
+      },
+      {
+        "id": "reimbursement-calculation",
+        "title": "Reimbursement calculation",
+        "originalPath": "/features/reimbursement-calculation"
+      },
+      {
+        "id": "nav-correction-reconciliation",
+        "title": "NAV correction reconciliation",
+        "originalPath": "/features/nav-correction-reconciliation"
+      },
+      {
+        "id": "credit-interest-calculation",
+        "title": "Credit interest calculation",
+        "originalPath": "/features/credit-interest-calculation"
+      },
+      {
+        "id": "stock-borrow-fee-linkage",
+        "title": "Stock borrow fee linkage",
+        "originalPath": "/features/stock-borrow-fee-linkage"
+      },
+      {
+        "id": "cash-credit-reconciliation",
+        "title": "Cash credit reconciliation",
+        "originalPath": "/features/cash-credit-reconciliation"
+      },
+      {
+        "id": "lpa-fee-terms",
+        "title": "LPA fee terms",
+        "originalPath": "/features/lpa-fee-terms"
+      },
+      {
+        "id": "fee-base-calculation",
+        "title": "Fee base calculation",
+        "originalPath": "/features/fee-base-calculation"
+      },
+      {
+        "id": "transaction-fee-ingestion",
+        "title": "Transaction fee ingestion",
+        "originalPath": "/features/transaction-fee-ingestion"
+      },
+      {
+        "id": "monitoring-fee-ingestion",
+        "title": "Monitoring fee ingestion",
+        "originalPath": "/features/monitoring-fee-ingestion"
+      },
+      {
+        "id": "director-fee-ingestion",
+        "title": "Director fee ingestion",
+        "originalPath": "/features/director-fee-ingestion"
+      },
+      {
+        "id": "borrower-fee-calculation",
+        "title": "Borrower fee calculation",
+        "originalPath": "/features/borrower-fee-calculation"
+      },
+      {
+        "id": "indemnification-fee-control",
+        "title": "Indemnification fee control",
+        "originalPath": "/features/indemnification-fee-control"
+      },
+      {
+        "id": "revenue-share-calculation",
+        "title": "Revenue share calculation",
+        "originalPath": "/features/revenue-share-calculation"
+      },
+      {
+        "id": "cash-reconciliation",
+        "title": "Cash reconciliation",
+        "originalPath": "/features/cash-reconciliation"
+      },
+      {
+        "id": "unit-price-validation",
+        "title": "Unit-price validation",
+        "originalPath": "/features/unit-price-validation"
+      },
+      {
+        "id": "closed-account-fee-detection",
+        "title": "Closed-account fee detection",
+        "originalPath": "/features/closed-account-fee-detection"
+      },
+      {
+        "id": "earnings-credit-validation",
+        "title": "Earnings credit validation",
+        "originalPath": "/features/earnings-credit-validation"
+      },
+      {
+        "id": "refund-reconciliation",
+        "title": "Refund reconciliation",
+        "originalPath": "/features/refund-reconciliation"
+      },
+      {
+        "id": "estate-tax-scenario",
+        "title": "AI · Estate Tax Scenario",
+        "originalPath": "/features/estate-tax-scenario"
+      },
+      {
+        "id": "tax-loss-harvest",
+        "title": "AI · Tax-Loss Harvest",
+        "originalPath": "/features/tax-loss-harvest"
+      },
+      {
+        "id": "tax-optimization",
+        "title": "Tax Optimization",
+        "originalPath": "/features/tax-optimization"
+      },
+      {
+        "id": "batch09-gap-nonai-tax-form-generation-1099-k-1-and-downloads",
+        "title": "Tax form generation 1099 k 1 and downloads",
+        "originalPath": "/features/batch09-gap-nonai-tax-form-generation-1099-k-1-and-downloads"
+      },
+      {
+        "id": "batch09-gap-nonai-tax-lot-wash-sale-tracking",
+        "title": "Tax lot wash sale tracking",
+        "originalPath": "/features/batch09-gap-nonai-tax-lot-wash-sale-tracking"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "recordkeeper-statement-audit",
+      "fiduciary-evidence-package",
+      "allocation-policy-library",
+      "policy-exception-workflow",
+      "benchmark-rate-validation",
+      "investment-period-control",
+      "waiver-and-rebate-control",
+      "quarterly-statement-audit",
+      "eligible-security-inventory",
+      "collateral-balance-validation",
+      "custodian-statement-audit",
+      "exception-dispute-workflow",
+      "program-security-analytics",
+      "volume-and-usage-validation",
+      "wire-ach-and-lockbox-audit",
+      "bank-exception-workflow",
+      "regulatory-compliance-check",
+      "risk-assessment",
+      "compliance-reviews",
+      "batch09-gap-nonai-regulatory-reporting-form-adv-reg-bi",
+      "batch09-gap-nonai-compliance-audit-trail-and-reviewer-queue",
+      "risk",
+      "batch09-gap-nonai-regulatory-compliance-finra-mifid-reporting",
+      "kpi-anomaly-explainer"
+    ],
+    "ai": true,
+    "representativeId": "recordkeeper-statement-audit",
+    "description": "One assistant for 24 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "recordkeeper-statement-audit",
+        "title": "Recordkeeper statement audit",
+        "originalPath": "/features/recordkeeper-statement-audit"
+      },
+      {
+        "id": "fiduciary-evidence-package",
+        "title": "Fiduciary evidence package",
+        "originalPath": "/features/fiduciary-evidence-package"
+      },
+      {
+        "id": "allocation-policy-library",
+        "title": "Allocation policy library",
+        "originalPath": "/features/allocation-policy-library"
+      },
+      {
+        "id": "policy-exception-workflow",
+        "title": "Policy exception workflow",
+        "originalPath": "/features/policy-exception-workflow"
+      },
+      {
+        "id": "benchmark-rate-validation",
+        "title": "Benchmark rate validation",
+        "originalPath": "/features/benchmark-rate-validation"
+      },
+      {
+        "id": "investment-period-control",
+        "title": "Investment period control",
+        "originalPath": "/features/investment-period-control"
+      },
+      {
+        "id": "waiver-and-rebate-control",
+        "title": "Waiver and rebate control",
+        "originalPath": "/features/waiver-and-rebate-control"
+      },
+      {
+        "id": "quarterly-statement-audit",
+        "title": "Quarterly statement audit",
+        "originalPath": "/features/quarterly-statement-audit"
+      },
+      {
+        "id": "eligible-security-inventory",
+        "title": "Eligible security inventory",
+        "originalPath": "/features/eligible-security-inventory"
+      },
+      {
+        "id": "collateral-balance-validation",
+        "title": "Collateral balance validation",
+        "originalPath": "/features/collateral-balance-validation"
+      },
+      {
+        "id": "custodian-statement-audit",
+        "title": "Custodian statement audit",
+        "originalPath": "/features/custodian-statement-audit"
+      },
+      {
+        "id": "exception-dispute-workflow",
+        "title": "Exception dispute workflow",
+        "originalPath": "/features/exception-dispute-workflow"
+      },
+      {
+        "id": "program-security-analytics",
+        "title": "Program security analytics",
+        "originalPath": "/features/program-security-analytics"
+      },
+      {
+        "id": "volume-and-usage-validation",
+        "title": "Volume and usage validation",
+        "originalPath": "/features/volume-and-usage-validation"
+      },
+      {
+        "id": "wire-ach-and-lockbox-audit",
+        "title": "Wire ACH and lockbox audit",
+        "originalPath": "/features/wire-ach-and-lockbox-audit"
+      },
+      {
+        "id": "bank-exception-workflow",
+        "title": "Bank exception workflow",
+        "originalPath": "/features/bank-exception-workflow"
+      },
+      {
+        "id": "regulatory-compliance-check",
+        "title": "AI · Compliance Check",
+        "originalPath": "/features/regulatory-compliance-check"
+      },
+      {
+        "id": "risk-assessment",
+        "title": "Risk Assessment",
+        "originalPath": "/features/risk-assessment"
+      },
+      {
+        "id": "compliance-reviews",
+        "title": "Compliance Reviews",
+        "originalPath": "/features/compliance-reviews"
+      },
+      {
+        "id": "batch09-gap-nonai-regulatory-reporting-form-adv-reg-bi",
+        "title": "Regulatory reporting form adv reg bi",
+        "originalPath": "/features/batch09-gap-nonai-regulatory-reporting-form-adv-reg-bi"
+      },
+      {
+        "id": "batch09-gap-nonai-compliance-audit-trail-and-reviewer-queue",
+        "title": "Compliance audit trail and reviewer queue",
+        "originalPath": "/features/batch09-gap-nonai-compliance-audit-trail-and-reviewer-queue"
+      },
+      {
+        "id": "risk",
+        "title": "Risk Report",
+        "originalPath": "/features/risk"
+      },
+      {
+        "id": "batch09-gap-nonai-regulatory-compliance-finra-mifid-reporting",
+        "title": "Regulatory compliance finra mifid reporting",
+        "originalPath": "/features/batch09-gap-nonai-regulatory-compliance-finra-mifid-reporting"
+      },
+      {
+        "id": "kpi-anomaly-explainer",
+        "title": "kpi anomaly explainer",
+        "originalPath": "/features/kpi-anomaly-explainer"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "expense-category-classification",
+      "statement-charge-matching",
+      "specials-premium-analysis",
+      "analysis-statement-ingestion",
+      "duplicate-service-detection",
+      "relationship-scorecard",
+      "account-service-optimization-analytics",
+      "philanthropic-grant-score",
+      "comp-analysis",
+      "follow-on-recommend",
+      "thesis-fit-score",
+      "portfolio-analysis",
+      "esg-analysis",
+      "politician",
+      "backtest-analysis",
+      "batch09-cfs-predictive-equity-curve-drawdown-recovery-time",
+      "batch09-cfs-strategy-correlation-analysis-to-avoid-redundancy",
+      "batch09-cfs-walk-forward-analysis-automation",
+      "batch09-gap-ai-ai-walk-forward-curve-fitting-detector",
+      "equity-curve-forecast",
+      "market-analysis",
+      "due-diligence-analyzer",
+      "correlation-analyzer",
+      "alert-optimizer"
+    ],
+    "ai": true,
+    "representativeId": "expense-category-classification",
+    "description": "One assistant for 24 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "expense-category-classification",
+        "title": "Expense category classification",
+        "originalPath": "/features/expense-category-classification"
+      },
+      {
+        "id": "statement-charge-matching",
+        "title": "Statement charge matching",
+        "originalPath": "/features/statement-charge-matching"
+      },
+      {
+        "id": "specials-premium-analysis",
+        "title": "Specials premium analysis",
+        "originalPath": "/features/specials-premium-analysis"
+      },
+      {
+        "id": "analysis-statement-ingestion",
+        "title": "Analysis statement ingestion",
+        "originalPath": "/features/analysis-statement-ingestion"
+      },
+      {
+        "id": "duplicate-service-detection",
+        "title": "Duplicate service detection",
+        "originalPath": "/features/duplicate-service-detection"
+      },
+      {
+        "id": "relationship-scorecard",
+        "title": "Relationship scorecard",
+        "originalPath": "/features/relationship-scorecard"
+      },
+      {
+        "id": "account-service-optimization-analytics",
+        "title": "Account service optimization analytics",
+        "originalPath": "/features/account-service-optimization-analytics"
+      },
+      {
+        "id": "philanthropic-grant-score",
+        "title": "Philanthropic grant score",
+        "originalPath": "/features/philanthropic-grant-score"
+      },
+      {
+        "id": "comp-analysis",
+        "title": "AI · Comp Analysis",
+        "originalPath": "/features/comp-analysis"
+      },
+      {
+        "id": "follow-on-recommend",
+        "title": "AI · Follow-On Recommend",
+        "originalPath": "/features/follow-on-recommend"
+      },
+      {
+        "id": "thesis-fit-score",
+        "title": "Thesis fit score",
+        "originalPath": "/features/thesis-fit-score"
+      },
+      {
+        "id": "portfolio-analysis",
+        "title": "Portfolio Analysis",
+        "originalPath": "/features/portfolio-analysis"
+      },
+      {
+        "id": "esg-analysis",
+        "title": "ESG Analysis",
+        "originalPath": "/features/esg-analysis"
+      },
+      {
+        "id": "politician",
+        "title": "Politician Analysis",
+        "originalPath": "/features/politician"
+      },
+      {
+        "id": "backtest-analysis",
+        "title": "Backtest analysis",
+        "originalPath": "/features/backtest-analysis"
+      },
+      {
+        "id": "batch09-cfs-predictive-equity-curve-drawdown-recovery-time",
+        "title": "Predictive equity curve drawdown recovery time",
+        "originalPath": "/features/batch09-cfs-predictive-equity-curve-drawdown-recovery-time"
+      },
+      {
+        "id": "batch09-cfs-strategy-correlation-analysis-to-avoid-redundancy",
+        "title": "Strategy correlation analysis to avoid redundancy",
+        "originalPath": "/features/batch09-cfs-strategy-correlation-analysis-to-avoid-redundancy"
+      },
+      {
+        "id": "batch09-cfs-walk-forward-analysis-automation",
+        "title": "Walk forward analysis automation",
+        "originalPath": "/features/batch09-cfs-walk-forward-analysis-automation"
+      },
+      {
+        "id": "batch09-gap-ai-ai-walk-forward-curve-fitting-detector",
+        "title": "Walk forward curve fitting detector",
+        "originalPath": "/features/batch09-gap-ai-ai-walk-forward-curve-fitting-detector"
+      },
+      {
+        "id": "equity-curve-forecast",
+        "title": "Equity curve forecast",
+        "originalPath": "/features/equity-curve-forecast"
+      },
+      {
+        "id": "market-analysis",
+        "title": "Market Analysis",
+        "originalPath": "/features/market-analysis"
+      },
+      {
+        "id": "due-diligence-analyzer",
+        "title": "due diligence analyzer",
+        "originalPath": "/features/due-diligence-analyzer"
+      },
+      {
+        "id": "correlation-analyzer",
+        "title": "correlation analyzer",
+        "originalPath": "/features/correlation-analyzer"
+      },
+      {
+        "id": "alert-optimizer",
+        "title": "alert optimizer",
+        "originalPath": "/features/alert-optimizer"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "market-sentiment",
+      "churn-prediction",
+      "batch09-cfs-predictive-client-churn-modeling-with-retention-ai",
+      "sentiment-analyzer"
+    ],
+    "ai": true,
+    "representativeId": "market-sentiment",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "market-sentiment",
+        "title": "Market Sentiment",
+        "originalPath": "/features/market-sentiment"
+      },
+      {
+        "id": "churn-prediction",
+        "title": "Churn Prediction",
+        "originalPath": "/features/churn-prediction"
+      },
+      {
+        "id": "batch09-cfs-predictive-client-churn-modeling-with-retention-ai",
+        "title": "Predictive client churn modeling with retention ai",
+        "originalPath": "/features/batch09-cfs-predictive-client-churn-modeling-with-retention-ai"
+      },
+      {
+        "id": "sentiment-analyzer",
+        "title": "sentiment analyzer",
+        "originalPath": "/features/sentiment-analyzer"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "batch09-gap-nonai-multi-account-allocation-pmm-style"
+    ],
+    "ai": true,
+    "representativeId": "batch09-gap-nonai-multi-account-allocation-pmm-style",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "batch09-gap-nonai-multi-account-allocation-pmm-style",
+        "title": "Multi account allocation pmm style",
+        "originalPath": "/features/batch09-gap-nonai-multi-account-allocation-pmm-style"
+      }
+    ]
+  }
+]

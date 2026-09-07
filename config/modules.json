@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ai-401k-revenue-sharing-fee-recapture",
+    "name": "401k revenue sharing fee recapture",
+    "sourceProject": "ai-401k-revenue-sharing-fee-recapture",
+    "services": []
+  },
+  {
+    "id": "ai-broker-dealer-communications-compliance",
+    "name": "Broker dealer communications compliance",
+    "sourceProject": "ai-broker-dealer-communications-compliance",
+    "services": []
+  },
+  {
+    "id": "ai-fund-administration-nav-fee-audit",
+    "name": "Fund administration nav fee audit",
+    "sourceProject": "ai-fund-administration-nav-fee-audit",
+    "services": []
+  },
+  {
+    "id": "ai-investment-fund-expense-allocation-control",
+    "name": "Investment fund expense allocation control",
+    "sourceProject": "ai-investment-fund-expense-allocation-control",
+    "services": []
+  },
+  {
+    "id": "ai-municipal-bond-continuing-disclosure",
+    "name": "Municipal bond continuing disclosure",
+    "sourceProject": "ai-municipal-bond-continuing-disclosure",
+    "services": []
+  },
+  {
+    "id": "ai-prime-brokerage-margin-interest-audit",
+    "name": "Prime brokerage margin interest audit",
+    "sourceProject": "ai-prime-brokerage-margin-interest-audit",
+    "services": []
+  },
+  {
+    "id": "ai-private-equity-management-fee-offset-audit",
+    "name": "Private equity management fee offset audit",
+    "sourceProject": "ai-private-equity-management-fee-offset-audit",
+    "services": []
+  },
+  {
+    "id": "ai-securities-lending-revenue-share-audit",
+    "name": "Securities lending revenue share audit",
+    "sourceProject": "ai-securities-lending-revenue-share-audit",
+    "services": []
+  },
+  {
+    "id": "ai-treasury-bank-fee-earnings-credit-audit",
+    "name": "Treasury bank fee earnings credit audit",
+    "sourceProject": "ai-treasury-bank-fee-earnings-credit-audit",
+    "services": []
+  },
+  {
+    "id": "AIFamilyOfficeManager",
+    "name": "Family office manager",
+    "sourceProject": "AIFamilyOfficeManager",
+    "services": []
+  },
+  {
+    "id": "AIVCDealFlowCopilot",
+    "name": "Vcdeal flow copilot",
+    "sourceProject": "AIVCDealFlowCopilot",
+    "services": []
+  },
+  {
+    "id": "AIWealthManagementRoboAdvisor",
+    "name": "Wealth management robo advisor",
+    "sourceProject": "AIWealthManagementRoboAdvisor",
+    "services": []
+  },
+  {
+    "id": "claudeTrading",
+    "name": "Claude trading",
+    "sourceProject": "claudeTrading",
+    "services": []
+  },
+  {
+    "id": "investment",
+    "name": "Investment",
+    "sourceProject": "investment",
+    "services": []
+  },
+  {
+    "id": "multiverseinvestment",
+    "name": "Multiverseinvestment",
+    "sourceProject": "multiverseinvestment",
+    "services": []
+  },
+  {
+    "id": "trading",
+    "name": "Trading",
+    "sourceProject": "trading",
+    "services": []
+  }
+]
